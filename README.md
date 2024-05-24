@@ -26,3 +26,7 @@ Evaluation Devops
 ## le pytest
 
 ![pytest](https://github.com/Badre28/EvalDevops/assets/170402584/5860f0c0-83fa-45e5-86de-20e44e63c02c)
+
+##workflows
+
+![workflowss](https://github.com/Badre28/EvalDevops/assets/170402584/efa7e925-5355-4741-acfb-3b969d19c80a)
