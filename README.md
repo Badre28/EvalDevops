@@ -30,3 +30,6 @@ Evaluation Devops
 ##workflows
 
 ![workflowss](https://github.com/Badre28/EvalDevops/assets/170402584/efa7e925-5355-4741-acfb-3b969d19c80a)
+
+# merge 
+![merge](https://github.com/Badre28/EvalDevops/assets/170402584/506f6680-9577-4c2b-b997-6ec26e96e170)
