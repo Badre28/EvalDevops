@@ -13,3 +13,9 @@ Evaluation Devops
 ![push   pull app groq](https://github.com/Badre28/EvalDevops/assets/170402584/557903f3-8a0a-4860-8df4-81a90ea5a853)
 # Page de l'app mini_groq
 ![teste page html eval](https://github.com/Badre28/EvalDevops/assets/170402584/39e5b2f1-1226-4d97-91af-73cfcfbe33b5)
+
+
+## Dockerisation 
+![fichier docker](https://github.com/Badre28/EvalDevops/assets/170402584/ffe7e256-0805-4db7-9d49-779bf3332646)
+*apres avoir crée l'image docker j'ai pu lancer l'app, obtenir une addresse ip mais le site ne s'affichent pas*
+![image docker fail](https://github.com/Badre28/EvalDevops/assets/170402584/52ffbf13-a43a-46f4-a759-83b994745904)
