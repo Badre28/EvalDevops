@@ -22,3 +22,7 @@ Evaluation Devops
 
 ## Creation de la branche dev 
 ![Branche dev](https://github.com/Badre28/EvalDevops/assets/170402584/662c5439-922d-4a75-8e78-2d702ce7b4a1)
+
+## le pytest
+
+![pytest](https://github.com/Badre28/EvalDevops/assets/170402584/5860f0c0-83fa-45e5-86de-20e44e63c02c)
